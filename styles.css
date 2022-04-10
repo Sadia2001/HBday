@@ -213,7 +213,7 @@ h1{
   .moody{
     width: 50px;
     bottom: 540px;
-    left: 120px;
+    left: 110px;
     position: absolute;
   }
 
@@ -226,7 +226,7 @@ h1{
 
   .BTS1{
     width: 150px;
-    bottom: 810px;
+    bottom: 812px;
     right: 170px;
     position: absolute;
   }
@@ -243,7 +243,7 @@ h1{
   }
 
   .flag{
-    width: 130px;
+    width: 100px;
     bottom: 500px;
     right: 110px;
     position: absolute;
