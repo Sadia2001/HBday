@@ -237,14 +237,14 @@ h1{
 
   .rock{
     width: 130px;
-    bottom: 480px;
-    right: 170px;
+    bottom: 470px;
+    right: 180px;
     position: absolute;
   }
 
   .flag{
     width: 100px;
-    bottom: 500px;
+    bottom: 490px;
     right: 110px;
     position: absolute;
   }
