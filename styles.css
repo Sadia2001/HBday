@@ -258,6 +258,25 @@ h1{
     transform: translateX(-50%);
     animation: boat 3s linear infinite;
   }
+    
+  .hero{
+  width: 70%;
+  height: 135vh;
+  position: absolute;
+  background-image: url(images/sky2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.ocean{
+  width: 70%;
+  height: 250px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
 
 
 }
